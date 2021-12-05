@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/ll_item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_set_lock_pw"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:textSize="16sp"
+            android:text="@string/text_app_lock_pw"
+            android:gravity="center_vertical"
+            android:paddingLeft="15dp">
+        </TextView>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.67dp"
+            android:layout_marginLeft="15dp"
+            android:background="@color/divider_line_color">
+        </View>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_close_app_lock"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_below="@id/ll_item"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/tv_close_app_lock"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:textSize="16sp"
+            android:text="@string/text_close_app_lock"
+            android:gravity="center_vertical"
+            android:paddingLeft="15dp">
+        </TextView>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.67dp"
+            android:layout_marginLeft="15dp"
+            android:background="@color/divider_line_color">
+        </View>
+    </LinearLayout>
+
+</RelativeLayout>

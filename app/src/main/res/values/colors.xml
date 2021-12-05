@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="gray_line_transparent">#AABABABA</color>
+    <color name="gray_alpha">#A1A1A1</color>
+    <color name="black_name">#464646</color>
+    <color name="red">#ff0000</color>
+    <color name="green">#00ff00</color>
+    <color name="blue">#0000ff</color>
+    <color name="blue_light">#1196EE</color>
+    <color name="yellow">#ffff00</color>
+    <color name="gary">#A1A1A1</color>
+    <color name="color_line_new">#D4D4D4</color>
+    <color name="his">#212426</color>
+    <color name="divider_line_color">#E3E3E3</color>
+
+    <color name="color_graphical_default_color">#98C4E8</color>
+    <color name="color_graphical_choose_color">#62F9FF</color>
+    <color name="dial_btn_color1">#FF000000</color>
+    <color name="dial_btn_color2">#FF595959</color>
+</resources>

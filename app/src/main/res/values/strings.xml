@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ApplicationLock</string>
+
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+    <string name="delete">删除</string>
+    <string name="text_app_lock_pw">应用锁密码</string>
+    <string name="text_modify_app_lock_pw">更改应用锁密码</string>
+    <string name="text_set_number_pw">设置数字密码</string>
+    <string name="text_set_graphical_pw">设置图形密码</string>
+    <string name="text_tip_of_set_pw">请牢记你的密码，忘记后无法找回</string>
+    <string name="text_other_pw">其他密码类型</string>
+    <string name="text_set_graphical_pw_title">请至少连接4个点</string>
+    <string name="text_set_number_pw_6_title">密码由6位数字组成</string>
+    <string name="title_set_number_pw_6_ensure">确认密码</string>
+    <string name="title_set_graphical_less_4_point">至少连接4个点, 请重试</string>
+    <string name="title_set_graphical_ensure">再次绘制图案进行确认</string>
+    <string name="title_your_graphical_pw">你的解锁图案:</string>
+    <string name="tips_pw_not_equal">密码不一致，请重新输入</string>
+    <string name="tips_graphical_pw_not_equal">与上次绘制的不一致，请重试</string>
+    <string name="text_btn_ensure">完成</string>
+    <string name="text_redraw">重新绘制</string>
+    <string name="text_input_pw">输入密码</string>
+    <string name="text_pw_error">密码错误</string>
+    <string name="text_input_lock">密码错误，还可输入</string>
+    <string name="text_timer_title_second">秒之后再尝试</string>
+    <string name="text_timer_title_minute">分钟之后再尝试</string>
+    <string name="text_input_lock_suffix">次，失败后将锁定30秒</string>
+    <string name="text_input_graphical_pw">绘制你的图案</string>
+    <string name="text_graphical_pw_error">图案错误</string>
+    <string name="text_graphical_input_lock">图案错误，还可以输入</string>
+    <string name="text_graphical_input_lock_suffix">次，失败后将锁定30秒</string>
+    <string name="text_close_app_lock">关闭应用锁</string>
+    <string name="text_default_title">应用提示</string>
+
+    <string name="menu_item_6_number_pw">6位数字密码</string>
+    <string name="menu_item_graphical_pw">图案密码</string>
+</resources>
